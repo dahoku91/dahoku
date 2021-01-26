@@ -1,0 +1,9 @@
+body{
+    font: bold 12px Verdana;
+}
+.heading{
+    font: bold 16px; padding: 10px 0px 10px; clear: both;
+}
+ul.imglist{
+    list-style-image: url("sqpurple.gif");
+}
